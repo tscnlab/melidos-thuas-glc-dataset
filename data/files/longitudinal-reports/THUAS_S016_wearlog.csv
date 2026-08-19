@@ -1,0 +1,6 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"THUAS_S016","2025-07-07 21:30:00","sleep",765,"2025-07-08 10:15:00",3,,1,,,,,,
+"THUAS_S016","2025-07-08 23:00:00","sleep",575,"2025-07-09 08:35:00",3,,1,,,,,,
+"THUAS_S016","2025-07-09 22:32:00","sleep",594,"2025-07-10 08:26:00",3,,1,,,,,,
+"THUAS_S016","2025-07-10 23:27:00","sleep",531,"2025-07-11 08:18:00",3,,1,,,,,,
+"THUAS_S016","2025-07-12 01:16:00","sleep",560,"2025-07-12 10:36:00",3,,1,,,,,,

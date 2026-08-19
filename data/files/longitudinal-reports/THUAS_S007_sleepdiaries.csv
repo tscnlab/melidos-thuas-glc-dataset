@@ -1,0 +1,8 @@
+"Id","bedtime","sleepprep","wake","out_ofbed","sleepdelay","awakenings","awake_duration","sleepquality","daytype2","comments","sleep","sleep_duration","comments_english"
+"THUAS_S007","2025-04-07 21:00:00","2025-04-07 21:00:00","2025-04-08 05:30:00","2025-04-08 05:30:00",30,1,3,2,2,"I woke up from thirst","2025-04-07 21:30:00",8,"I woke up from thirst"
+"THUAS_S007","2025-04-08 19:30:00","2025-04-08 21:00:00","2025-04-09 07:30:00","2025-04-09 07:35:00",20,0,0,4,2,"no","2025-04-08 21:20:00",10.1666666666667,"no"
+"THUAS_S007","2025-04-09 22:00:00","2025-04-09 22:30:00","2025-04-10 07:45:00","2025-04-10 07:50:00",30,0,0,3,2,"something fell on top of the sensor during the night, might just read zerz throughout the night","2025-04-09 23:00:00",8.75,"something fell on top of the sensor during the night, might just read zero throughout the night"
+"THUAS_S007","2025-04-10 23:30:00","2025-04-10 23:30:00","2025-04-11 07:00:00","2025-04-11 07:00:00",15,0,0,3,2,"I am nog wearing the device today. too much trave too little time too many meetings","2025-04-10 23:45:00",7.25,"I am not wearing the device today. Too much travel, too little time, too many meetings."
+"THUAS_S007","2025-04-11 23:20:00","2025-04-11 23:30:00","2025-04-12 07:30:00","2025-04-12 08:00:00",10,0,0,4,1,"no","2025-04-11 23:40:00",7.83333333333333,"no"
+"THUAS_S007","2025-04-12 22:00:00","2025-04-12 22:30:00","2025-04-13 07:45:00","2025-04-13 09:00:00",30,1,2,4,1,"cat woke me up in the mornjng","2025-04-12 23:00:00",8.75,"cat woke me up in the morning"
+"THUAS_S007","2025-04-13 22:00:00","2025-04-13 23:46:00","2025-04-14 08:00:00","2025-04-14 08:10:00",25,0,0,3,2,"no","2025-04-14 00:11:00",7.81666666666667,"no"

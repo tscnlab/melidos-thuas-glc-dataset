@@ -1,0 +1,8 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"THUAS_S014","2025-07-08 18:03:00","off",123,"2025-07-08 20:06:00",1,,1,,1,0,"bed drawer",0,"bed drawer"
+"THUAS_S014","2025-07-09 16:43:00","off",20,"2025-07-09 17:03:00",1,,2,,1,0,"on the table",0,"on the table"
+"THUAS_S014","2025-07-09 19:34:00","off",732,"2025-07-10 07:46:00",1,1,1,,,0,"on the drawer",0,"on the drawer"
+"THUAS_S014","2025-07-10 11:42:00","off",99,"2025-07-10 13:21:00",1,1,1,,,0,"drawer",0,"drawer"
+"THUAS_S014","2025-07-10 13:52:00","off",21,"2025-07-10 14:13:00",1,2,1,,,0,"table",0,"table"
+"THUAS_S014","2025-07-11 10:13:00","off",127,"2025-07-11 12:20:00",1,1,1,,,0,"table",0,"table"
+"THUAS_S014","2025-07-11 18:38:00","off",94,"2025-07-11 20:12:00",1,1,1,,,0,"table",0,"table"

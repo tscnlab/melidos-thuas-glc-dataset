@@ -1,0 +1,119 @@
+[
+  {
+    "schema_version": "3.0.2",
+    "study_internal_id": "MELIDOS_THUAS_2025",
+    "study_title": "Personal light exposure dataset for Delft, The Netherlands",
+    "study_ethics": "The Hague University of Applied Sciences Ethics Committee (approval 20240529)",
+    "study_short_description": "MeLiDos field-study data collected by The Hague University of Applied Sciences in Delft, The Netherlands.",
+    "study_sample": "Twenty participants were enrolled; fifteen participants were included in the repository.",
+    "study_setting": "Field study",
+    "study_geographical_location": "Delft, The Netherlands, city/urban",
+    "study_contributors": [
+      {
+        "contributor_full_name": "Sam Aerts",
+        "contributor_roles": [
+          "Conceptualization",
+          "Data curation",
+          "Formal analysis",
+          "Investigation",
+          "Methodology",
+          "Project administration",
+          "Software",
+          "Validation",
+          "Visualization",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "s.h.aerts@hhs.nl",
+        "contributor_institution": {
+          "contributor_institution_name": "The Hague University of Applied Sciences",
+          "contributor_institution_city": "Delft",
+          "contributor_institution_country": "The Netherlands"
+        }
+      },
+      {
+        "contributor_full_name": "Astrid Jansen",
+        "contributor_roles": [
+          "Data curation",
+          "Investigation",
+          "Writing – original draft"
+        ],
+        "contributor_email": "a.p.jansen@hhs.nl",
+        "contributor_institution": {
+          "contributor_institution_name": "The Hague University of Applied Sciences",
+          "contributor_institution_city": "Delft",
+          "contributor_institution_country": "The Netherlands"
+        }
+      },
+      {
+        "contributor_full_name": "Nico Hogervorst",
+        "contributor_roles": [
+          "Data curation",
+          "Investigation",
+          "Validation"
+        ],
+        "contributor_institution": {
+          "contributor_institution_name": "The Hague University of Applied Sciences",
+          "contributor_institution_city": "Delft",
+          "contributor_institution_country": "The Netherlands"
+        }
+      },
+      {
+        "contributor_full_name": "Daan Boesten",
+        "contributor_roles": [
+          "Data curation",
+          "Investigation",
+          "Validation",
+          "Writing – original draft"
+        ],
+        "contributor_institution": {
+          "contributor_institution_name": "The Hague University of Applied Sciences",
+          "contributor_institution_city": "Delft",
+          "contributor_institution_country": "The Netherlands"
+        }
+      },
+      {
+        "contributor_full_name": "John Bolte",
+        "contributor_roles": [
+          "Conceptualization",
+          "Funding acquisition",
+          "Project administration",
+          "Resources",
+          "Supervision",
+          "Writing – review & editing"
+        ],
+        "contributor_institution": {
+          "contributor_institution_name": "The Hague University of Applied Sciences",
+          "contributor_institution_city": "Delft",
+          "contributor_institution_country": "The Netherlands"
+        }
+      }
+    ],
+    "study_datasets": [
+      "MELIDOS_THUAS_S001",
+      "MELIDOS_THUAS_S002",
+      "MELIDOS_THUAS_S003",
+      "MELIDOS_THUAS_S005",
+      "MELIDOS_THUAS_S006",
+      "MELIDOS_THUAS_S007",
+      "MELIDOS_THUAS_S010",
+      "MELIDOS_THUAS_S011",
+      "MELIDOS_THUAS_S014",
+      "MELIDOS_THUAS_S015",
+      "MELIDOS_THUAS_S016",
+      "MELIDOS_THUAS_S017",
+      "MELIDOS_THUAS_S018",
+      "MELIDOS_THUAS_S019",
+      "MELIDOS_THUAS_S020"
+    ],
+    "study_type": "field study",
+    "study_keywords": [
+      "light exposure",
+      "circadian",
+      "wearable sensor",
+      "MeLiDos",
+      "Delft",
+      "The Netherlands"
+    ]
+  }
+]

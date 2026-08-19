@@ -1,0 +1,4 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"THUAS_S002","2025-03-03 22:37:00","sleep",700,"2025-03-04 10:17:00",3,,2,,1,,,,
+"THUAS_S002","2025-03-04 10:17:00","off",18,"2025-03-04 10:35:00",1,2,1,,,1,,1,
+"THUAS_S002","2025-03-08 15:24:00","site_leave",422,"2025-03-08 22:26:00",4,,2,"alkmaar",,,,,

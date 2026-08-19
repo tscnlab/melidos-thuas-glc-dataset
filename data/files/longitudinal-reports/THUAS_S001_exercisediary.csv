@@ -1,0 +1,9 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"THUAS_S001","2025-02-23",1,2,3,"House renovation, cycling and bouldering",20,210,1,"2025-02-23 23:40:02","2025-02-23 23:42:04","House renovation, cycling and bouldering"
+"THUAS_S001","2025-02-24",1,4,,,20,720,,"2025-02-25 00:10:12","2025-02-25 00:11:17",
+"THUAS_S001","2025-02-25",1,3,1,"gardening",0,600,1,"2025-02-25 23:58:31","2025-02-25 23:59:18","gardening"
+"THUAS_S001","2025-02-26",1,3,1,"walking",20,720,1,"2025-02-26 22:58:03","2025-02-26 22:59:10","walking"
+"THUAS_S001","2025-02-27",1,2,2,"working in SnowWorld",420,240,0,"2025-02-28 00:35:42","2025-02-28 00:36:35","working in SnowWorld"
+"THUAS_S001","2025-02-28",1,1,1,"surfing",60,300,0,"2025-02-28 22:51:32","2025-02-28 22:51:55","surfing"
+"THUAS_S001","2025-03-01",1,1,1,"dancing",420,120,0,"2025-03-01 23:03:08","2025-03-01 23:03:36","dancing"
+"THUAS_S001","2025-03-02",1,4,,,0,660,,"2025-03-02 22:01:09","2025-03-02 22:01:32",

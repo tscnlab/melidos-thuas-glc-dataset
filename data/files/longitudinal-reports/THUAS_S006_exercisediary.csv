@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"THUAS_S006","2025-03-31",1,2,1,"cycling and stretching",30,660,1,"2025-03-31 23:20:59","2025-03-31 23:24:03","cycling and stretching"
+"THUAS_S006","2025-04-01",1,2,1,"cyclingbtobwork",40,660,1,"2025-04-01 23:20:14","2025-04-01 23:20:49","cycling back to work"
+"THUAS_S006","2025-04-02",1,2,1,"cycle to work",50,660,1,"2025-04-02 22:40:35","2025-04-02 22:41:07","cycle to work"
+"THUAS_S006","2025-04-03",1,2,1,"cycle to work",40,660,1,"2025-04-04 04:49:54","2025-04-04 04:50:32","cycle to work"
+"THUAS_S006","2025-04-04",1,2,1,"cycling",40,660,1,"2025-04-05 00:29:07","2025-04-05 00:29:55","cycling"
+"THUAS_S006","2025-04-05",1,2,1,"cycling",60,500,1,"2025-04-06 08:26:28","2025-04-06 08:27:14","cycling"
+"THUAS_S006","2025-04-06",1,1,2,"bouldering",150,500,1,"2025-04-07 00:12:04","2025-04-07 00:13:09","bouldering"

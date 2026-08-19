@@ -1,0 +1,69 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Personal light exposure dataset for Delft, The Netherlands'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Sam
+    family-names: Aerts
+    affiliation: The Hague University of Applied Sciences
+    email: s.h.aerts@hhs.nl
+  - given-names: Astrid
+    family-names: Astrid Jansen
+    affiliation: The Hague University of Applied Sciences
+    email: a.p.jansen@hhs.nl
+  - given-names: Nico
+    family-names: Hogervorst
+    affiliation: The Hague University of Applied Sciences
+  - family-names: Boesten
+    given-names: Daan
+    affiliation: The Hague University of Applied Sciences
+  - given-names: John
+    family-names: Bolte
+    affiliation: The Hague University of Applied Sciences
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics; TUM Institute for Advanced
+      Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: https://doi.org/10.5281/zenodo.17979895
+    description: Zenodo archive (V1.0.0)
+  - type: doi
+    value: 10.5281/zenodo.17979893
+    description: Zenodo Archive (latest version)
+repository-code: 'https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025'
+url: 'https://www.melidos.eu'
+abstract: >-
+  This repository contains the comprehensive dataset for the
+  MeLiDos field study site of Delft, The Netherlands. Data
+  were collected by The Hague University of Applied Sciences
+  (THUAS) and are further processed and analysed by the
+  Translational Sensory & Circadian Neuroscience Unit
+  (TSCN). A detailed description of the experiment is
+  available in Guidolin et al., 2024.
+keywords:
+  - light exposure
+  - wearable
+  - healthy light
+  - circadian
+  - melanopic
+  - naturalistic setting
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2025-12-18'
